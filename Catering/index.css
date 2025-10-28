@@ -1,0 +1,110 @@
+.navbar-heading{
+    font-family: "Courier New";
+}
+
+.bg-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-bottom: 20px;
+}
+
+.main-image{
+    margin-top: 30px;
+}
+
+.position-heading-element{
+    position: absolute;
+}
+
+.main-heading{
+    font-family: "Roboto";
+    color: gray;
+    margin:20px;
+}
+
+.image{
+    height:480px;
+
+    border-radius: 5px;
+}
+
+.about-heading{
+    font-family: "Roboto";
+    text-align: center;
+    margin:20px;
+}
+
+.about-para1{
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+.about-para2{
+    color: gray;
+}
+
+.menu-heading{
+    font-family: "Roboto";
+    text-align: center;
+    margin:45px;
+}
+
+.menu-sub-heading{
+    font-family: "Roboto";
+    font-size:25px;
+}
+
+.menu-sub-heading2{
+    margin: 25px;
+}
+
+.menu-sub-heading3{
+    font-family: "Roboto";
+    color:gray;
+}
+
+.contact-heading{
+    font-family: "Roboto";
+    margin-top: 25px;
+}
+
+.contact-para1{
+    font-family: "Roboto";
+}
+
+.contact-para2{
+    font-family: "Roboto";
+    color:rgb(9, 235, 247);
+}
+
+.input{
+    margin: 10px;
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+}
+
+.button{
+    padding: 10px;
+    background-color: gray;
+    border-radius: 5px;
+    margin:10px;
+    border-width: 0px;
+}
+
+.fotter{
+    background-color: gray;
+    height:80px;
+    
+}
+
+.fotter-para{
+    font-family: "Roboto";
+}
+
+.span1{
+    text-decoration: underline;
+}
